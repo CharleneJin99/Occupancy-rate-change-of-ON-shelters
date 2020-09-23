@@ -75,6 +75,7 @@ data19
 ```
 
 
+
 # How does the sector that the shelter hosts change due to the impact of COVID-19 for year 2020 compared to year 2019?
 
 ```{r sector bar,echo=FALSE, message=FALSE}
