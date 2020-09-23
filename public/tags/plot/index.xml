@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plot on A Hugo website</title>
+    <link>/tags/plot/</link>
+    <description>Recent content in plot on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Sep 2020 21:13:14 -0500</lastBuildDate><atom:link href="/tags/plot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How does the daily occupancy rate of ON shelters change under the strike of COVID-19?</title>
+      <link>/2020/09/23/how-does-the-daily-occupancy-rate-of-on-shelters-change-under-the-strike-of-covid-19/</link>
+      <pubDate>Wed, 23 Sep 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/2020/09/23/how-does-the-daily-occupancy-rate-of-on-shelters-change-under-the-strike-of-covid-19/</guid>
+      <description>Abstract
+This research aims at discovering the change of the situation of daily shelters in ON due to the strike of COVID-19. The analysis is based on the comparison between the data from year 2020 and year 2019, and will especially focus on the changes in occupancy rate. The most important finding is that the average occupancy rate has decreased, while the situation of overwhelmed shelter is even more severe.</description>
+    </item>
+    
+  </channel>
+</rss>
